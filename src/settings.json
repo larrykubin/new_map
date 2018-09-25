@@ -1,5 +1,5 @@
 {
     "container": "map",
-    "accessToken": "",
-    "style": "mapbox://styles/mapbox/streets-v9"
+    "accessToken": "pk.eyJ1IjoibGFycnlrdWJpbiIsImEiOiJzNjc4UnlJIn0.t0-d_h7TH2p2O9WrrDRylA",
+    "style": "mapbox://styles/larrykubin/cjmh1mdd85k5w2ro0iu416eyc"
 }
